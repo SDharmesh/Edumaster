@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+.section5 {
+    background: #FDF9D8;
+}
+
+.section5>.container>.row>h1 {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.p-icon {
+    color: #ffbc3b;
+    font-size: 20px;
+}
+
+
+/*Section 6*/
+
+.section6>.container>.row>.col-md-12>h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+
+.section6>.container>.row>.col-md-4>.card:hover {
+    box-shadow: 1px 0 5px 1px;
+    background: azure;
+}
+
+.section6>.container>.row>.col-md-4>.card>.card-body h3 {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.section6>.container>.row>.col-md-4>.card>.card-body p {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.section6 {
+    background: lightgoldenrodyellow;
+}
